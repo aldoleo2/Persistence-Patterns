@@ -1,0 +1,13 @@
+In this folder you can find the files to reproduce figure 3b of the article
+
+1. In the txt file "4" you can find the numerical solution as a function of position and time 
+   from Comsol correspondent to the values b=1.903 and n=4. 
+   
+2. In the "Fourier Coefficient for Fig 3b" Wolfram Mathematica file we import this numerical solutions 
+   from Comsol to calculate the Fourier Coefficients of the solutions for this values of b and n.
+ 
+3. This generates the files "cT7" which is txt files that contain the Fourrier Coefficients
+   of each solution.
+
+4. The Wolfram Mathematica program "Figure 3b" imports this Fourrier Coefficients 
+   to graph the fourier coefficients as a function of time.

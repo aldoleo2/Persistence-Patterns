@@ -1,0 +1,14 @@
+In this folder you can find the files to reproduce figure 4 of the article
+
+1. In the folders "1.769", "1.822" and "1.903" you can find the outputs from comsol correspondent to each
+   "b" value. The txt files inside this folders contain the numerical solution as a function of position and time
+   for the different values ​​of n correspondent to the name of the file.
+
+2. In the "Fourier Coefficient for Fig 4" Wolfram Mathematica file we import the numerical solutions 
+   from Comsol to calculate the Fourier Coefficients of the solutions for the different values for b and n.
+ 
+3. This generates the files "cT3", "cT5" and "cT7" which are txt files that contain the Fourrier Coefficients
+   of each solution.
+
+4. The Wolfram Mathematica program "Figure 4" imports Fourrier Coefficients of each final solution 
+   to graph the value of the biggest Fourier Coefficients as a function of n.

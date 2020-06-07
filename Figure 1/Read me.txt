@@ -1,0 +1,4 @@
+In this folder you can find the files to reproduce the figure 1 of the article
+
+1. The Wolfram Mathematica program "Figure 1a" calculate and plot the stable, 
+unstable and oscillating points, along with the borders.
