@@ -12,4 +12,6 @@ of numerical solutions in the same order that they appear in the article.
 
 3) Inside each folder there is a readme.txt file that details how each calculation was made.
 
-4) All Mathematica and Comsol files are also commented inside fescribing the steps of calculations.
+4) All Mathematica and Comsol files are also commented inside describing the steps of calculations.
+
+5) Comsol 5.2 and Mathematica 11 were used for the final versions of these files.
