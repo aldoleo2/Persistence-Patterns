@@ -1,14 +1,14 @@
 In this folder you can find the files to reproduce the figure 2 of the article
 
-1. In the folder "1.769" you can find the outputs from comsol correspondent to the
+1) In the folder "1.769" you can find the outputs from comsol correspondent to the
    value b=1.769. The txt files inside this folder contain the numerical solution as a function of position and time
-   for the 3 different values ​​of n correspondent to the name of the file.
+   for the 3 different values of n correspondent to the name of the file.
 
-2. In the "Fourier Coefficient for Fig2" Wolfram Mathematica file we import the numerical solutions 
-   from Comsol to calculate the Fourierr Coefficients of the solutions for the different values of n.
+2) In the "Fourier Coefficient for Fig2" Wolfram Mathematica file  (.nb) we import the numerical solutions 
+   from Comsol (.mph master file) to calculate the Fourierr Coefficients of the solutions for the different values of n.
  
-3. This generates the files "cT3" which is a txt file that contain the Fourrier Coefficients
+3) This generates the files "cT3" which is a txt file that contain the Fourier Coefficients
    of each solution.
 
-4. The Wolfram Mathematica program "Figure 2a" imports the Fourrier Coefficients of each solution 
-   to graph the fourier coefficients as a function of time
+4) The Wolfram Mathematica program "Figure 2a.nb" imports the Fourier Coefficients of each solution 
+   to graph the fourier coefficients as a function of time.
